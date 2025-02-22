@@ -1,4 +1,4 @@
-# learning git and githuh
+# learning git and github
 
 taking one step towards becoming skilled developer
 
